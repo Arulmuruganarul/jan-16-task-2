@@ -52,3 +52,16 @@ h1,h3{
     color: #414346;
 
 }
+
+@media screen and (max-width:660px) {
+    .gym{
+        width: 245px;
+        height: 217px;
+        top:70px;
+        left:50px;
+        border-radius:10px;
+    }
+    .card{
+        width:60%;
+    }
+}
